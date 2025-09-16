@@ -1,16 +1,15 @@
-## Hi there 👋
+¡Hola! 👋 Soy Salma El Yaznasni
 
-<!--
-**salmayb/salmayb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de **Desarrollo de Aplicaciones Web**  
+📍 Madrid, España  
+💻 Apasionada por el **desarrollo web** y con muchas ganas de aprender en entornos profesionales.
 
-Here are some ideas to get you started:
+🛠 Tecnologías y herramientas
+- **Front-end:** HTML5 · CSS3 · Bootstrap 5 · Tailwind · JavaScript
+- **Back-end:** Java · PHP · Spring Boot
+- **Bases de datos:** MySQL · Oracle SQL
+- **Otros:** Angular · GitHub · Visual Studio Code · Eclipse
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Cómo contactarme
+- **Email:** salmaybb28@gmail.com
+- **LinkedIn:** www.linkedin.com/in/salma-el-yaznasni-041552339
