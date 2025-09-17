@@ -1,4 +1,4 @@
-¡Hola! 👋 Soy Salma El Yaznasni
+¡Hola! 👋 Soy Salma El Yaznasni 💗
 
 🎓 Estudiante de **Desarrollo de Aplicaciones Web**  
 📍 Madrid, España  
